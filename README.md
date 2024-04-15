@@ -1,1 +1,1 @@
-# clone-tabnews
+# Projeto Clone da TabNews
