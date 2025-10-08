@@ -7,8 +7,8 @@ function Home() {
           height: "100%",
         }}
       >
-        <h1 style={{ color: "red", fontSize: "80px" }}>&#10084;</h1>
-        <p style={{ "text-align": "center", fontSize: "26px" }}>Te amo!</p>
+        {/* <h1 style={{ color: "red", fontSize: "80px" }}>&#10084;</h1>
+        <p style={{ "text-align": "center", fontSize: "26px" }}>Te amo!</p> */}
       </div>
     </>
   );
